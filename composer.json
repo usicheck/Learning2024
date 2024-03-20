@@ -1,0 +1,15 @@
+{
+    "name": "j.shturhal/php-pro_4",
+    "type": "project",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "larapack/dd": "^1.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
